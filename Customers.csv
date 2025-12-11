@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Age,Gender,City,State
+C1000,Customer 1,54,Female,Bengaluru,Karnataka
+C1001,Customer 2,50,Female,Mumbai,Maharashtra
+C1002,Customer 3,59,Female,Bengaluru,Karnataka
+C1003,Customer 4,41,Male,Chennai,Tamil Nadu
+C1004,Customer 5,32,Female,Delhi,Delhi
+C1005,Customer 6,49,Female,Mumbai,Maharashtra
+C1006,Customer 7,49,Female,Kolkata,West Bengal
+C1007,Customer 8,41,Male,Chennai,Tamil Nadu
+C1008,Customer 9,58,Female,Mumbai,Maharashtra
+C1009,Customer 10,29,Male,Kolkata,West Bengal
+C1010,Customer 11,56,Female,Mumbai,Maharashtra
+C1011,Customer 12,19,Male,Bengaluru,Karnataka
+C1012,Customer 13,20,Male,Mumbai,Maharashtra
+C1013,Customer 14,54,Female,Mumbai,Maharashtra
+C1014,Customer 15,34,Male,Mumbai,Maharashtra
+C1015,Customer 16,19,Female,Chennai,Tamil Nadu
+C1016,Customer 17,19,Female,Mumbai,Maharashtra
+C1017,Customer 18,45,Female,Kolkata,West Bengal
+C1018,Customer 19,40,Male,Bengaluru,Karnataka
+C1019,Customer 20,54,Male,Bengaluru,Karnataka
+C1020,Customer 21,49,Female,Mumbai,Maharashtra
+C1021,Customer 22,50,Female,Chennai,Tamil Nadu
+C1022,Customer 23,18,Male,Chennai,Tamil Nadu
+C1023,Customer 24,36,Female,Kolkata,West Bengal
+C1024,Customer 25,19,Female,Mumbai,Maharashtra
+C1025,Customer 26,43,Female,Bengaluru,Karnataka
+C1026,Customer 27,49,Male,Chennai,Tamil Nadu
+C1027,Customer 28,23,Male,Mumbai,Maharashtra
+C1028,Customer 29,49,Male,Chennai,Tamil Nadu
+C1029,Customer 30,21,Female,Chennai,Tamil Nadu
+C1030,Customer 31,28,Female,Bengaluru,Karnataka
+C1031,Customer 32,34,Female,Delhi,Delhi
+C1032,Customer 33,55,Male,Kolkata,West Bengal
+C1033,Customer 34,41,Female,Kolkata,West Bengal
+C1034,Customer 35,22,Female,Bengaluru,Karnataka
+C1035,Customer 36,51,Female,Chennai,Tamil Nadu
+C1036,Customer 37,23,Female,Mumbai,Maharashtra
+C1037,Customer 38,39,Male,Chennai,Tamil Nadu
+C1038,Customer 39,28,Male,Bengaluru,Karnataka
+C1039,Customer 40,33,Female,Kolkata,West Bengal
+C1040,Customer 41,50,Male,Chennai,Tamil Nadu
+C1041,Customer 42,26,Male,Kolkata,West Bengal
+C1042,Customer 43,23,Female,Mumbai,Maharashtra
+C1043,Customer 44,33,Female,Kolkata,West Bengal
+C1044,Customer 45,46,Male,Kolkata,West Bengal
+C1045,Customer 46,20,Female,Delhi,Delhi
+C1046,Customer 47,37,Male,Delhi,Delhi
+C1047,Customer 48,53,Female,Delhi,Delhi
+C1048,Customer 49,36,Male,Kolkata,West Bengal
+C1049,Customer 50,43,Female,Bengaluru,Karnataka
+C1050,Customer 51,20,Male,Kolkata,West Bengal
+C1051,Customer 52,36,Male,Bengaluru,Karnataka
+C1052,Customer 53,37,Male,Bengaluru,Karnataka
+C1053,Customer 54,49,Female,Delhi,Delhi
+C1054,Customer 55,24,Male,Chennai,Tamil Nadu
+C1055,Customer 56,58,Male,Mumbai,Maharashtra
+C1056,Customer 57,50,Female,Delhi,Delhi
+C1057,Customer 58,57,Female,Delhi,Delhi
+C1058,Customer 59,56,Male,Chennai,Tamil Nadu
+C1059,Customer 60,35,Male,Mumbai,Maharashtra
+C1060,Customer 61,57,Female,Kolkata,West Bengal
+C1061,Customer 62,18,Female,Kolkata,West Bengal
+C1062,Customer 63,28,Female,Delhi,Delhi
+C1063,Customer 64,45,Female,Mumbai,Maharashtra
+C1064,Customer 65,42,Female,Delhi,Delhi
+C1065,Customer 66,40,Male,Bengaluru,Karnataka
+C1066,Customer 67,48,Female,Delhi,Delhi
+C1067,Customer 68,47,Male,Delhi,Delhi
+C1068,Customer 69,59,Male,Kolkata,West Bengal
+C1069,Customer 70,52,Male,Kolkata,West Bengal
+C1070,Customer 71,24,Female,Kolkata,West Bengal
+C1071,Customer 72,33,Male,Bengaluru,Karnataka
+C1072,Customer 73,43,Male,Kolkata,West Bengal
+C1073,Customer 74,19,Female,Mumbai,Maharashtra
+C1074,Customer 75,18,Male,Chennai,Tamil Nadu
+C1075,Customer 76,29,Male,Mumbai,Maharashtra
+C1076,Customer 77,22,Female,Mumbai,Maharashtra
+C1077,Customer 78,54,Male,Kolkata,West Bengal
+C1078,Customer 79,49,Male,Chennai,Tamil Nadu
+C1079,Customer 80,26,Male,Chennai,Tamil Nadu
+C1080,Customer 81,58,Female,Chennai,Tamil Nadu
+C1081,Customer 82,52,Female,Bengaluru,Karnataka
+C1082,Customer 83,36,Female,Kolkata,West Bengal
+C1083,Customer 84,33,Male,Chennai,Tamil Nadu
+C1084,Customer 85,20,Male,Bengaluru,Karnataka
+C1085,Customer 86,37,Female,Delhi,Delhi
+C1086,Customer 87,41,Male,Delhi,Delhi
+C1087,Customer 88,50,Male,Bengaluru,Karnataka
+C1088,Customer 89,41,Female,Bengaluru,Karnataka
+C1089,Customer 90,28,Female,Kolkata,West Bengal
+C1090,Customer 91,25,Male,Kolkata,West Bengal
+C1091,Customer 92,53,Male,Delhi,Delhi
+C1092,Customer 93,55,Male,Chennai,Tamil Nadu
+C1093,Customer 94,57,Female,Delhi,Delhi
+C1094,Customer 95,37,Female,Chennai,Tamil Nadu
+C1095,Customer 96,52,Female,Chennai,Tamil Nadu
+C1096,Customer 97,42,Female,Kolkata,West Bengal
+C1097,Customer 98,52,Male,Mumbai,Maharashtra
+C1098,Customer 99,42,Female,Mumbai,Maharashtra
+C1099,Customer 100,46,Female,Bengaluru,Karnataka
+C1100,Customer 101,35,Female,Kolkata,West Bengal
+C1101,Customer 102,35,Female,Chennai,Tamil Nadu
+C1102,Customer 103,19,Female,Mumbai,Maharashtra
+C1103,Customer 104,52,Male,Chennai,Tamil Nadu
+C1104,Customer 105,33,Male,Mumbai,Maharashtra
+C1105,Customer 106,58,Female,Mumbai,Maharashtra
+C1106,Customer 107,53,Male,Mumbai,Maharashtra
+C1107,Customer 108,50,Female,Kolkata,West Bengal
+C1108,Customer 109,21,Female,Delhi,Delhi
+C1109,Customer 110,50,Male,Chennai,Tamil Nadu
+C1110,Customer 111,31,Male,Kolkata,West Bengal
+C1111,Customer 112,38,Female,Kolkata,West Bengal
+C1112,Customer 113,37,Female,Kolkata,West Bengal
+C1113,Customer 114,25,Female,Kolkata,West Bengal
+C1114,Customer 115,24,Male,Kolkata,West Bengal
+C1115,Customer 116,20,Female,Bengaluru,Karnataka
+C1116,Customer 117,34,Female,Chennai,Tamil Nadu
+C1117,Customer 118,50,Female,Kolkata,West Bengal
+C1118,Customer 119,29,Male,Chennai,Tamil Nadu
+C1119,Customer 120,39,Female,Bengaluru,Karnataka
+C1120,Customer 121,39,Female,Bengaluru,Karnataka
+C1121,Customer 122,47,Male,Chennai,Tamil Nadu
+C1122,Customer 123,55,Female,Mumbai,Maharashtra
+C1123,Customer 124,55,Female,Delhi,Delhi
+C1124,Customer 125,25,Male,Mumbai,Maharashtra
+C1125,Customer 126,44,Female,Mumbai,Maharashtra
+C1126,Customer 127,44,Male,Mumbai,Maharashtra
+C1127,Customer 128,51,Male,Kolkata,West Bengal
+C1128,Customer 129,38,Female,Bengaluru,Karnataka
+C1129,Customer 130,47,Female,Mumbai,Maharashtra
+C1130,Customer 131,50,Female,Bengaluru,Karnataka
+C1131,Customer 132,45,Female,Chennai,Tamil Nadu
+C1132,Customer 133,50,Male,Delhi,Delhi
+C1133,Customer 134,22,Female,Chennai,Tamil Nadu
+C1134,Customer 135,36,Male,Chennai,Tamil Nadu
+C1135,Customer 136,21,Female,Kolkata,West Bengal
+C1136,Customer 137,52,Female,Delhi,Delhi
+C1137,Customer 138,34,Female,Chennai,Tamil Nadu
+C1138,Customer 139,45,Male,Chennai,Tamil Nadu
+C1139,Customer 140,47,Female,Delhi,Delhi
+C1140,Customer 141,46,Female,Delhi,Delhi
+C1141,Customer 142,23,Female,Chennai,Tamil Nadu
+C1142,Customer 143,52,Female,Delhi,Delhi
+C1143,Customer 144,58,Male,Chennai,Tamil Nadu
+C1144,Customer 145,54,Female,Chennai,Tamil Nadu
+C1145,Customer 146,41,Male,Kolkata,West Bengal
+C1146,Customer 147,46,Male,Mumbai,Maharashtra
+C1147,Customer 148,48,Male,Chennai,Tamil Nadu
+C1148,Customer 149,52,Male,Bengaluru,Karnataka
+C1149,Customer 150,50,Male,Mumbai,Maharashtra
+C1150,Customer 151,38,Male,Mumbai,Maharashtra
+C1151,Customer 152,49,Female,Mumbai,Maharashtra
+C1152,Customer 153,40,Male,Kolkata,West Bengal
+C1153,Customer 154,50,Male,Chennai,Tamil Nadu
+C1154,Customer 155,20,Male,Kolkata,West Bengal
+C1155,Customer 156,35,Female,Chennai,Tamil Nadu
+C1156,Customer 157,42,Female,Kolkata,West Bengal
+C1157,Customer 158,59,Male,Kolkata,West Bengal
+C1158,Customer 159,48,Female,Bengaluru,Karnataka
+C1159,Customer 160,20,Male,Kolkata,West Bengal
+C1160,Customer 161,57,Male,Delhi,Delhi
+C1161,Customer 162,41,Female,Bengaluru,Karnataka
+C1162,Customer 163,49,Male,Kolkata,West Bengal
+C1163,Customer 164,39,Female,Mumbai,Maharashtra
+C1164,Customer 165,40,Female,Delhi,Delhi
+C1165,Customer 166,19,Male,Delhi,Delhi
+C1166,Customer 167,44,Male,Delhi,Delhi
+C1167,Customer 168,59,Female,Bengaluru,Karnataka
+C1168,Customer 169,19,Male,Kolkata,West Bengal
+C1169,Customer 170,43,Male,Kolkata,West Bengal
+C1170,Customer 171,34,Male,Mumbai,Maharashtra
+C1171,Customer 172,57,Female,Mumbai,Maharashtra
+C1172,Customer 173,50,Female,Delhi,Delhi
+C1173,Customer 174,26,Male,Mumbai,Maharashtra
+C1174,Customer 175,56,Female,Bengaluru,Karnataka
+C1175,Customer 176,46,Female,Kolkata,West Bengal
+C1176,Customer 177,59,Female,Delhi,Delhi
+C1177,Customer 178,43,Female,Mumbai,Maharashtra
+C1178,Customer 179,52,Female,Bengaluru,Karnataka
+C1179,Customer 180,42,Male,Bengaluru,Karnataka
+C1180,Customer 181,41,Male,Mumbai,Maharashtra
+C1181,Customer 182,30,Male,Kolkata,West Bengal
+C1182,Customer 183,24,Female,Mumbai,Maharashtra
+C1183,Customer 184,53,Female,Delhi,Delhi
+C1184,Customer 185,37,Male,Mumbai,Maharashtra
+C1185,Customer 186,18,Female,Bengaluru,Karnataka
+C1186,Customer 187,25,Male,Mumbai,Maharashtra
+C1187,Customer 188,33,Male,Kolkata,West Bengal
+C1188,Customer 189,31,Male,Chennai,Tamil Nadu
+C1189,Customer 190,29,Female,Mumbai,Maharashtra
+C1190,Customer 191,40,Female,Kolkata,West Bengal
+C1191,Customer 192,32,Male,Kolkata,West Bengal
+C1192,Customer 193,45,Male,Bengaluru,Karnataka
+C1193,Customer 194,51,Male,Kolkata,West Bengal
+C1194,Customer 195,19,Male,Kolkata,West Bengal
+C1195,Customer 196,49,Female,Kolkata,West Bengal
+C1196,Customer 197,40,Female,Kolkata,West Bengal
+C1197,Customer 198,39,Male,Delhi,Delhi
+C1198,Customer 199,42,Male,Delhi,Delhi
+C1199,Customer 200,39,Female,Bengaluru,Karnataka
